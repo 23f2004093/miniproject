@@ -1,0 +1,1 @@
+kaggle kernels output vidhikishorwaghela/llm-detect-ai-generated-text -p /path/to/dest
